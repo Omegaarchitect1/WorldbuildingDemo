@@ -21,7 +21,7 @@ public class PlayerControls : MonoBehaviour
     private void FixedUpdate()
     {
         PlayerControl();
-        //Jump();
+        
     }
 
 	private void PlayerControl()
@@ -32,16 +32,5 @@ public class PlayerControls : MonoBehaviour
         rb2d.AddForce(Vector2.right * movement);
        
     }
-
-  
-
-  private void Jump()
-   {
-     if(Input.GetButton("Jump"))
-     {
-         
-     }
-     
-   }
 			
 }
