@@ -41,3 +41,9 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Foliage
+    uniqueID: 867569833
+    locked: 0
+  - name: Platforms
+    uniqueID: 1834129215
+    locked: 0

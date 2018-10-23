@@ -35,13 +35,13 @@ public class PlayerControls : MonoBehaviour
 
   
 
-  // private void Jump()
-   //{
-    // if(Input.GetButton("Jump"))
-     //   {
+  private void Jump()
+   {
+     if(Input.GetButton("Jump"))
+     {
          
-      //  }
+     }
      
-  // }
+   }
 			
 }
